@@ -3,3 +3,4 @@ b = 0
 print(a)
 c = 34
 print(c+1)
+d = 32
