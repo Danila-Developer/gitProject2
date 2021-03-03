@@ -3,3 +3,4 @@ b = 0
 print(a)
 print(b)
 def func():
+    print("Hello")
