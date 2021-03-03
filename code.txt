@@ -5,3 +5,4 @@ c = 34
 print(c+1)
 d = 32
 def func(a):
+    a = a+1
