@@ -4,3 +4,6 @@ print(a)
 print(b)
 def func():
     print("Hello")
+print(c+1)
+d = 32
+
