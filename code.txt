@@ -2,3 +2,4 @@ a = 0
 b = 0
 print(a)
 c = 34
+print(c+1)
